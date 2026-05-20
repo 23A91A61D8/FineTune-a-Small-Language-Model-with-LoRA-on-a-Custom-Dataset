@@ -209,10 +209,3 @@ For very short inputs the fine-tuned model occasionally over-generates additiona
 6. Try **4-bit quantisation (QLoRA)** to reduce memory footprint further.
 
 ---
-
-## License
-
-This project is for educational purposes under the Partnr GPP programme.
-=======
-# FineTune-a-Small-Language-Model-with-LoRA-on-a-Custom-Dataset
->>>>>>> 16ea21c0d8e54c9d7cd09fa6644bb488565badac

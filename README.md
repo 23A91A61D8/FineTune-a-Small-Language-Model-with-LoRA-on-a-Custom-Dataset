@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Fine-Tune a Small Language Model with LoRA on a Custom Dataset
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)

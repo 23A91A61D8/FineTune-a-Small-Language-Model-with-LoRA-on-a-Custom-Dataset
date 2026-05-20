@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+env/
+.venv/
+
+# Environment variables — NEVER commit .env
+.env
+
+# HuggingFace cache
+~/.cache/huggingface/
+
+# Trained model weights (large binary files)
+lora_adapter/*.safetensors
+lora_adapter/*.bin
+
+# Generated outputs (optional: comment out to track them)
+# output/loss_curve.png
+# output/comparison.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
